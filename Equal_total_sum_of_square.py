@@ -1,5 +1,6 @@
 
 # Center both datasets in order to perform O2PLS
+# Both datasets need to be pre-processed before running this script
 # Both datasets are equalized to have a same total variance
 # Note : datasets with more variables will have the total variance shared between more variables, and that might have a negative impact on OPLS-DA
 
